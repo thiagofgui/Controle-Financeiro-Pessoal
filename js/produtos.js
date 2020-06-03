@@ -1,6 +1,3 @@
-
-
-
 function salvarProduto(){
   const nome = document.getElementById("nome").value;
   const descricao = document.getElementById("descricao").value;
